@@ -1,5 +1,5 @@
 
-![Header](https://github.com/TePMo-Tapo4eK/TePMo-Tapo4eK/blob/main/images/rainbow-line.gif)
+![Header](https://github.com/TePMo-Tapo4eK/TePMo-Tapo4eK/blob/main/images/11.png)
 
 # Zakhar Ukhanov
 ###### 16-yrs old
@@ -8,7 +8,7 @@
 # Contacts:
 - ukhanovza@gmail.com
 
-![Line](https://github.com/TePMo-Tapo4eK/TePMo-Tapo4eK/blob/main/images/rainbow-line.gif)
+![Line](https://github.com/TePMo-Tapo4eK/TePMo-Tapo4eK/blob/main/images/11.png)
 
 ## Way to Front-end
 
@@ -29,4 +29,4 @@ React / HTML5 / CSS3
 - TypeScript (understanding, but did not use it)
 - MaterialUI / Frame-motion
 
-![Footer](https://github.com/TePMo-Tapo4eK/TePMo-Tapo4eK/blob/main/images/rainbow-line.gif)
+![Footer](https://github.com/TePMo-Tapo4eK/TePMo-Tapo4eK/blob/main/images/11.png)
