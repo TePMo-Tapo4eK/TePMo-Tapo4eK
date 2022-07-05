@@ -8,7 +8,7 @@
 # Contacts:
 - ukhanovza@gmail.com
 
-![Line](https://github.com/TePMo-Tapo4eK/TePMo-Tapo4eK/blob/main/images/black.gif)
+![Line](https://github.com/TePMo-Tapo4eK/TePMo-Tapo4eK/blob/main/images/rainbow-line.gif)
 
 ## Way to Front-end
 
