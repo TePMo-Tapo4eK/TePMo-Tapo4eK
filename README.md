@@ -6,11 +6,13 @@
 ######  Yaroslavl, Russia
 
 # Contacts:
-- ukhanovza@gmail.com
+- E-mail: ukhanovza@gmail.com
+- Telegram: @pasternak_ru
+- VK: @p.a.n.d.a777
 
 ![Line](https://github.com/TePMo-Tapo4eK/TePMo-Tapo4eK/blob/main/images/11.png)
 
-## Way to Front-end
+# Way to Front-end
 
 ## Technology stack:
 React / HTML5 / CSS3
@@ -18,7 +20,7 @@ React / HTML5 / CSS3
 ## Studying now:
 - Asinc / await / API
 
-## I know it:
+# I know it:
 - React 
 - React-router-dom
 - Redux (basic understanding)
