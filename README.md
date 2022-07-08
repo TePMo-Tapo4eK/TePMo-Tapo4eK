@@ -30,5 +30,6 @@ React / HTML5 / CSS3
 - Unit tests(react testing library)
 - TypeScript (understanding, but did not use it)
 - MaterialUI / Frame-motion
+- SASS/SCSS
 
 ![Footer](https://github.com/TePMo-Tapo4eK/TePMo-Tapo4eK/blob/main/images/11.png)
