@@ -19,6 +19,7 @@ React / HTML5 / CSS3
 
 ## Studying now:
 - Asinc / await / API
+- MobX
 
 # I know it:
 - React 
