@@ -18,7 +18,7 @@
 React / HTML5 / CSS3
 
 ## Studying now:
-- Async / await / API
+- API(axios/fetch)
 - Redux-Toolkit
 
 # I know it:
