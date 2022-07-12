@@ -7,8 +7,8 @@
 
 # Contacts:
 - E-mail: ukhanovza@gmail.com
-- Telegram: @pasternak_ru
-- VK: @p.a.n.d.a777
+- Telegram: [@pasternak_ru](https://t.me/pasternak_ru)
+- VK: [@p.a.n.d.a777](https://vk.com/p.a.n.d.a777)
 
 ![Line](https://github.com/TePMo-Tapo4eK/TePMo-Tapo4eK/blob/main/images/11.png)
 
@@ -24,10 +24,11 @@ React / HTML5 / CSS3
 # I know it:
 - React 
 - React-router-dom
-- Redux (basic understanding)
+- Redux
 - Adaptive and cross-browser layout
 - BEM
 - Git
+- Async/await
 - Unit tests(react testing library)
 - TypeScript (understanding, but did not use it)
 - MaterialUI / Frame-motion
