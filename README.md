@@ -18,8 +18,8 @@
 React / HTML5 / CSS3
 
 ## Studying now:
-- Asinc / await / API
-- MobX
+- Async / await / API
+- Redux-Toolkit
 
 # I know it:
 - React 
