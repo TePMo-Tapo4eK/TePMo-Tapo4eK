@@ -18,7 +18,7 @@
 React / HTML5 / CSS3
 
 ## Studying now:
-- API(axios/fetch)
+
 
 # I know it:
 - React 
@@ -28,6 +28,7 @@ React / HTML5 / CSS3
 - BEM
 - Git
 - Async/await
+- API(axios/fetch)
 - Unit tests(react testing library)
 - TypeScript
 - MaterialUI / Framer-motion
