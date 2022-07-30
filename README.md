@@ -18,7 +18,8 @@
 React / HTML5 / CSS3
 
 ## Studying now:
-
+- Work in team(real-projects)
+- Forms and Tests
 
 # I know it:
 - React 
