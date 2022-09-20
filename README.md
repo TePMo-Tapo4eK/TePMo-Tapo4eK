@@ -2,7 +2,7 @@
 ![Header](https://github.com/TePMo-Tapo4eK/TePMo-Tapo4eK/blob/main/images/11.png)
 
 # Zakhar Ukhanov
-###### 16-yrs old
+###### 17-yrs old
 ######  Yaroslavl, Russia
 
 # Contacts:
