@@ -2,7 +2,7 @@
 ![Header](https://github.com/TePMo-Tapo4eK/TePMo-Tapo4eK/blob/main/images/11.png)
 
 # Zakhar Ukhanov
-###### 17-yrs old
+###### 18-yrs old
 ######  Yaroslavl, Russia
 
 # Contacts:
@@ -18,7 +18,6 @@
 React / HTML5 / CSS3
 
 ## Studying now:
-- Work in team(real-projects)
 - Forms and Tests
 - Three.js
 
@@ -26,6 +25,7 @@ React / HTML5 / CSS3
 - React 
 - React-router-dom
 - Redux + Redux-Toolkit
+- Zustand 
 - Adaptive and cross-browser layout
 - BEM
 - Git
